@@ -4,6 +4,7 @@ Analyzing eBay Watch Market Trends to get an insight into certain niches in the 
 In this project, I aim to analyze the dynamic landscape of the eBay Watch market on 2024, focusing on pricing trends, listing patterns, and sales insights. By leveraging and analyzing the data using such analytics techniques, I seek to provide valuable insights into the behavior of sellers, fluctuations in prices, and the preferences of buyers within this niche market.
 ## Data Collection & Preprocessing
 I get this data from the Kaggle platform and preprocess to ensure the quality and consistency of this data. This dataset includes listing prices, seller details, number of sales, latest updates, and availability of the products.
+### kaggle dataset link : https://www.kaggle.com/datasets/kanchana1990/trending-ebay-watch-listings-2024
 The preprocessing involves cleaning the dataset, to facilitate analysis like 
 * handling the missing values
 * correcting spellings
